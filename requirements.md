@@ -13,7 +13,7 @@
 
 |    Data    | Versão |          Descrição          |      Autor             |
 | :--------: | :----: | :-------------------------: | :--------------:       |
-| 01/04/2024 |  1.0   |    Criação do documento     | Daniel Cassemiro Alves |
+| 17/04/2024 |  1.0   |    Criação do documento     | Daniel Cassemiro Alves |
 
 ---
 
@@ -54,6 +54,8 @@ Esta subseção fornece as definições de todos os termos, acrônimos e abrevia
   O identificador do requisito será uma sequência numérica. Esse número sequencial será único para todo o conjunto de tipos de requisitos.
 
   **Exemplo**: RF0001, RF1234, RNF1234,
+
+  A matriz de rastreabilidade definirá a relação entre os requisitos funcionais e não funcionais.
 
 # Usuários identificados
 
